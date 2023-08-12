@@ -2,7 +2,7 @@ name: Build V1
 on:
   push:
     branches:
-      - main   # Substitua pelo nome da sua ramificação principal, se for diferente
+      - master   # Substitua pelo nome da sua ramificação principal, se for diferente
 
 jobs:
   deploy:
